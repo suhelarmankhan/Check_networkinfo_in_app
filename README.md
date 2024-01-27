@@ -1,6 +1,6 @@
 
 ## NetworkBroadcast.java
-```
+```java
 
 package com.example.checkinternetconnection.classes;
 
@@ -71,7 +71,7 @@ public class NetworkBroadcast extends BroadcastReceiver {
 <br/>
 
 ## MainActivity.java
-```
+```java
 package com.example.checkinternetconnection;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## AndroidMenifest.xml
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
