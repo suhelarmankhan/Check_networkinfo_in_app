@@ -1,5 +1,5 @@
 <!-- Additional Screenshot -->
-<img src="https://github.com/suhelarmankhan/Check_networkinfo_in_app/assets/112642509/f4a17314-8a17-41b3-b888-8df214abc908" alt="Additional Screenshot" width="180" height="400">
+<img src="https://github.com/suhelarmankhan/Check_networkinfo_in_app/assets/112642509/f4a17314-8a17-41b3-b888-8df214abc908" alt="Additional Screenshot"  height="400">
 
 
 ## NetworkBroadcast.java
