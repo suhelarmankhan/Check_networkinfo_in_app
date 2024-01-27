@@ -4,7 +4,7 @@
 It is a project of Android Studio. You can check whether the device has internet or not with this code. If there is no internet then the app will automatically show a no internet page and if there is internet it can be removed.
 
 ## Video Link
-https://www.facebook.com/suhelarmankhan/videos/279687344870047
+https://www.facebook.com/100011407515662/videos/279687344870047/
 
 # Below I give the codes:
 
