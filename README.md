@@ -1,4 +1,4 @@
-#### Check if the device has internet or not, if there is no internet then show a no internet alert dialog. The alert dialog will automatically go away when the internet is back on the device.
+
 <!-- Additional Screenshot -->
 <img src="https://github.com/suhelarmankhan/Check_networkinfo_in_app/assets/112642509/f4a17314-8a17-41b3-b888-8df214abc908" alt="Additional Screenshot"  height="600">  
 
